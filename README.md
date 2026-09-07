@@ -14,4 +14,6 @@ Built with Peter K., Jairo G., Evan M., and Jackson T, from early summer through
 ##Status 
 Completed and presented. Hardware was returned after the conclusion of the project. Personally extending research solo in [Link here], adding thermal-based person detection.
 
-*Note*: Final code not retained, most up-to-date is posted.
+*Note*: Final code not retained, most up-to-date is posted, not the exact code from the live presentation. 
+The `go_to` function here is a placeholder; the working flight-command version used 
+at the presentation was lost along with the original hardware and isn't recoverable.
